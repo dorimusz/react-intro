@@ -1,0 +1,20 @@
+body {
+ background-color: antiquewhite;
+}
+
+#first {
+  background-color: yellow;
+}
+
+.myp {
+  background-color: green;
+}
+
+.card {
+  border: 3px solid black;
+}
+
+.card-content {
+  padding: 10px;
+  text-decoration: underline;
+}
